@@ -1,0 +1,7 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/api/duckvoice/dictation/route": "/api/duckvoice/dictation",
+  "/api/duckvoice/session/route": "/api/duckvoice/session",
+  "/api/duckchat/route": "/api/duckchat",
+  "/page": "/"
+}

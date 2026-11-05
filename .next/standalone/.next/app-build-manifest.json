@@ -1,0 +1,49 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-a95f0fa307a99f86.js",
+      "static/chunks/4bd1b696-21f374d1156f834a.js",
+      "static/chunks/255-751a4dcc013f42ab.js",
+      "static/chunks/main-app-667a87f62f81836b.js",
+      "static/chunks/app/_not-found/page-1512ce0f7a2b0d1d.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-a95f0fa307a99f86.js",
+      "static/chunks/4bd1b696-21f374d1156f834a.js",
+      "static/chunks/255-751a4dcc013f42ab.js",
+      "static/chunks/main-app-667a87f62f81836b.js",
+      "static/css/8abff202d40a4547.css",
+      "static/chunks/app/layout-87256f2c3641ae28.js"
+    ],
+    "/api/duckvoice/dictation/route": [
+      "static/chunks/webpack-a95f0fa307a99f86.js",
+      "static/chunks/4bd1b696-21f374d1156f834a.js",
+      "static/chunks/255-751a4dcc013f42ab.js",
+      "static/chunks/main-app-667a87f62f81836b.js",
+      "static/chunks/app/api/duckvoice/dictation/route-8bd6aff8d2531b6c.js"
+    ],
+    "/api/duckvoice/session/route": [
+      "static/chunks/webpack-a95f0fa307a99f86.js",
+      "static/chunks/4bd1b696-21f374d1156f834a.js",
+      "static/chunks/255-751a4dcc013f42ab.js",
+      "static/chunks/main-app-667a87f62f81836b.js",
+      "static/chunks/app/api/duckvoice/session/route-8bd6aff8d2531b6c.js"
+    ],
+    "/api/duckchat/route": [
+      "static/chunks/webpack-a95f0fa307a99f86.js",
+      "static/chunks/4bd1b696-21f374d1156f834a.js",
+      "static/chunks/255-751a4dcc013f42ab.js",
+      "static/chunks/main-app-667a87f62f81836b.js",
+      "static/chunks/app/api/duckchat/route-8bd6aff8d2531b6c.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-a95f0fa307a99f86.js",
+      "static/chunks/4bd1b696-21f374d1156f834a.js",
+      "static/chunks/255-751a4dcc013f42ab.js",
+      "static/chunks/main-app-667a87f62f81836b.js",
+      "static/chunks/aaea2bcf-007ddbe6e1307a81.js",
+      "static/chunks/433-412e17e258738e54.js",
+      "static/chunks/app/page-059a62cb30f20693.js"
+    ]
+  }
+}

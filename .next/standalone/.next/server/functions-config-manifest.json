@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "functions": {
+    "/api/duckchat": {},
+    "/api/duckvoice/dictation": {},
+    "/api/duckvoice/session": {}
+  }
+}
