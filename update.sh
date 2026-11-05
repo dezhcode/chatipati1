@@ -36,6 +36,8 @@ OLD="$(git rev-parse -q --verify HEAD 2>/dev/null || echo none)"
 git fetch -q --depth 1 origin "$BRANCH"
 git reset -q --hard FETCH_HEAD
 git checkout -q -B "$BRANCH"
+# فایل های قدیمی بیلد قبلی (chunk های با نام هش دار) را پاک کن تا فضای هاست پر نشود
+git clean -fdq .next || true
 NEW="$(git rev-parse HEAD)"
 if [ "$OLD" = "$NEW" ]; then
   echo "بیلد از قبل به روز بود ($(git log -1 --format='%h %s'))"
